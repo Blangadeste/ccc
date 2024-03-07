@@ -1,0 +1,39 @@
+body {
+    background-color: lightskyblue;
+    background-image: url(../Img/onepiecewal.jpg);
+}
+
+h1 {
+    font-style: italic;
+    text-decoration: underline;
+    background-color: aliceblue;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#mu {
+    background-color: rgb(90, 194, 235);
+    opacity: 80%;
+}
+
+#lu {
+    background-color: red;
+    opacity: 80%;
+}
+
+#zo {
+    background-color: lightgreen;
+    opacity: 80%;
+}
+
+#na {
+    background-color: lightsalmon;
+    opacity: 80%;
+}
+
+#us {
+    background-color: coral;
+    opacity: 80%;
+}
